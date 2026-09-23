@@ -23,8 +23,7 @@ the plugin.
     {
       "id": "gpt-5.6-luna",
       "available": true,
-      "verifiedAt": "2026-09-23",
-      "contextWindow": 272000
+      "verifiedAt": "2026-09-23"
     }
   ]
 }
