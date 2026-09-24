@@ -1,0 +1,229 @@
+{
+  "providerId": "github-copilot",
+  "models": [
+    {
+      "id": "gpt-5.4",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "grok-4.7",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gpt-5.4-nano",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-opus-4.7",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "kimi-k3",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gpt-5-mini",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-opus-4.8",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gpt-5.3-codex",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gemini-3.6-flash",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "mai-code-1-flash-picker",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "mai-code-1.1-flash",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-haiku-4.5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gpt-6-astra",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "grok-4.5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-opus-5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gemini-3.5-flash",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-fable-5.1",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-fable-5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gpt-5.4-mini",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gpt-5.6-luna",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gpt-5.5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-sonnet-5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gemini-3.7-flash",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-sonnet-4.6",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gemini-3.8-flash",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gpt-6-luna",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-opus-5.5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gpt-5.6-terra",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "kimi-k2.7-code",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "grok-4.6",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gpt-5.6-sol",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "gpt-6-sol",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

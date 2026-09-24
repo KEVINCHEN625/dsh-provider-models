@@ -1,0 +1,33 @@
+{
+  "providerId": "kimi-coding",
+  "models": [
+    {
+      "id": "kimi-for-coding-highspeed",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "kimi-for-coding",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "k3-256k",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "k3",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}
