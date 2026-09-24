@@ -1,0 +1,40 @@
+{
+  "providerId": "xai",
+  "models": [
+    {
+      "id": "grok-4.7",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "grok-4.3",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "grok-4.5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "grok-4.20-multi-agent-0309",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "grok-4.6",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "providerId": "openrouter",
+  "models": [
+    {
+      "id": "anthropic/claude-sonnet-4.6",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "anthropic/claude-opus-4.7",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "openai/gpt-5.5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "google/gemini-2.5-pro",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "deepseek/deepseek-v4.1-flash",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "stealth/space-bunny-alpha",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "nex-agi/nex-n2.5-mini:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "nex-agi/nex-n2.5-pro:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "inclusionai/ling-3.0-flash-sante:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "inclusionai/ling-3.0-flash-fin:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "dots-studio/dots-3-note-preview:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "qwen/qwen3.8-27b:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "liquid/lfm-2.5-2.6b:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "thinkingmachines/inkling-small:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "poolside/laguna-s-2.1:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "thinkingmachines/inkling:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "poolside/laguna-xs-2.1:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "cohere/north-mini-code:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "z-ai/glm-5.2:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "nvidia/nemotron-3.5-content-safety:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "google/gemma-4-26b-a4b-it:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "google/gemma-4-31b-it:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "google/lyria-3-clip-preview",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "google/lyria-3-pro-preview",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "nvidia/nemotron-3-super-120b-a12b:free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "openrouter/free",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "fireworks/ember-1",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "aion-labs/aion-3.5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "aion-labs/aion-3.5-mini",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "qwen/qwen3.8-max-prime",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "upstage/solar-mini4",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "z-ai/glm-5.3-prime",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "anthropic/claude-opus-5.5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "cohere/command-a-plus",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "openai/gpt-6-luna",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "openai/gpt-6-luna-pro",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "openai/gpt-6-sol",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "openai/gpt-6-sol-pro",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "xiaomi/mimo-v2.6-flash",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "xiaomi/mimo-v2.6-pro",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "x-ai/grok-4.7",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "xiaomi/mimo-v2.6-pro-ultraspeed",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "prism-ml/ternary-bonsai-2-27b",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "z-ai/glm-5.3-flashx",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "qwen/qwen3.8-omni-flash",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}

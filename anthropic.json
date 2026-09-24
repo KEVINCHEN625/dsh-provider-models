@@ -1,0 +1,110 @@
+{
+  "providerId": "anthropic",
+  "models": [
+    {
+      "id": "claude-haiku-4-5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-opus-4-5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-sonnet-4-5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-opus-5-5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-fable-5-1",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-opus-4-5-20251101",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-opus-5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-fable-5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-opus-4-8",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-sonnet-4-5-20250929",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-sonnet-5",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-opus-4-6",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-haiku-4-5-20251001",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-sonnet-4-6",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    },
+    {
+      "id": "claude-opus-4-7",
+      "available": false,
+      "status": "unverified",
+      "source": "models.dev",
+      "verifiedAt": "2026-09-24"
+    }
+  ]
+}
